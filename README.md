@@ -1,6 +1,6 @@
 # Java 과제
 
-## 과제목록 :bookmark_tabs:
+## :bookmark_tabs: 과제목록
 
 1. 변수
 2. 연산자
